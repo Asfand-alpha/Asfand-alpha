@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Asfand! 👋
 
-<!--
-**Asfand-alpha/Asfand-alpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Web Developer 
+I am a passionate Full-Stack Developer specializing in building modern, scalable, and responsive web applications. I love turning complex problems into elegant user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Angular, React
+- **Backend & APIs:** .NET MVC, ASP.NET Web API, C#
+- **Version Control:** Git & GitHub
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asfand-alpha&show_icons=true&theme=tokyonight&count_private=true" alt="Asfand's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfand-alpha&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 📫 Connect with Me
+- 💼 **LinkedIn:** [Your LinkedIn Profile URL Here]
+- 📧 **Email:** [Your Email Address Here]
