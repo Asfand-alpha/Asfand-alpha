@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="profileimage.png" width="230" height="230" align="center"/>
+<img src="profile_final.png" width="230" height="230" align="center"/>
 
 <br/><br/>
 
